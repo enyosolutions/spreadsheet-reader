@@ -1,9 +1,9 @@
 {
-	"name": "nuovo/spreadsheet-reader",
+	"name": "enyosolutions/spreadsheet-reader",
 	"description": "Spreadsheet reader library for Excel, OpenOffice and structured text files",
 	"keywords": ["spreadsheet", "xls", "xlsx", "ods", "csv", "excel", "openoffice"],
-	"homepage": "https://github.com/nuovo/spreadsheet-reader",
-	"version": "0.5.11",
+	"homepage": "https://github.com/enyosolutions/spreadsheet-reader",
+	"version": "0.5.12",
 	"time": "2015-04-30",
 	"type": "library",
 	"license": ["MIT"],
